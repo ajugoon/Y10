@@ -1,6 +1,6 @@
 # Here is a program that shows how to open a file and WRITE 
 # information TO it.
-# FileIO Example 2
+# FileIO Example 3
 # Author: Mr. Jugoon
 # Upper Canada College
 
