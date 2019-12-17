@@ -1,4 +1,4 @@
-# Loop Example 3
+# Loop Example 5
 #
 # We can use a 'for' loop to iterate through a string
 
