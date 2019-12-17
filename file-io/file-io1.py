@@ -1,6 +1,6 @@
 # Here is a program that shows how to open a file and read information
 # from it.
-# FileIO Example 1a
+# FileIO Example 1
 # Author: Mr. Jugoon
 # Upper Canada College
 
