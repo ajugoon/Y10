@@ -4,7 +4,7 @@
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv('https://raw.githubusercontent.com/ajugoon/y10coding/master/testdata.csv')
+df = pd.read_csv('Enter your Github User Data Address here...')
 df.head()
 
 fig = px.line(df, x = "Year", y = "CO2", title='Some Example')
